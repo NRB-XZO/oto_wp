@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# NRB SECURITY
 import pywhatkit as kit
 import datetime
 import random
